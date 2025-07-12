@@ -1,16 +1,25 @@
-## Hi there 👋
+# Computer Engineering Student — Programming Projects
 
-<!--
-**msanz59/msanz59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub profile showcases projects developed during Computer Engineering studies, focusing mainly on C++ and Java.
 
-Here are some ideas to get you started:
+## Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Brainfuck Interpreter:**  
+  A C++ interpreter for the Brainfuck esoteric language.
+
+- **RLC and Huffman Compression:**  
+  Implementations of Run-Length Encoding and Huffman coding algorithms in C++.
+
+- **Java Projects:**  
+  Various small projects emphasizing object-oriented programming and data structures.
+
+## Skills and Technologies
+
+- C++
+- Java
+- Algorithm design
+- Data compression techniques
+
+---
+
+Open to collaboration and learning opportunities.
