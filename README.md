@@ -23,3 +23,5 @@ This GitHub profile showcases projects developed during Computer Engineering stu
 ---
 
 Open to collaboration and learning opportunities.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=msanz59)](https://git.io/streak-stats)
